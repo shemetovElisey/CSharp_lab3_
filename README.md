@@ -28,7 +28,7 @@ abstract Class Expr
      - ```/```,
      - ```*```,
 
-   **Классы**
+   **Классы:**
     - ```Variable```, 
     - ```Constant```.
 
