@@ -2,7 +2,7 @@
 
 namespace CSharp_lab3
 {
-	abstract class BinaryOperation : Expr
+	public abstract class BinaryOperation : Expr
 	{
 		private Expr _lhs;
 		private Expr _rhs;
