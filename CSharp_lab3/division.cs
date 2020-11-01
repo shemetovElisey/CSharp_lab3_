@@ -10,6 +10,6 @@ namespace CSharp_lab3
 
 		public override bool IsPolynom => throw new NotImplementedException();
 
-		protected override double Calculate(double lhs, double rhs) => lhs + rhs;
+		protected override double Calculate(double lhs, double rhs) => lhs / rhs;
 	}
 }
